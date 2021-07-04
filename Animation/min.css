@@ -1,0 +1,8 @@
+#pot img {
+    transition: 0.3s transform ease;
+}
+
+#pot img:hover {
+    transform: translateX(30px);
+    transition: 0.3s transform ease;
+}
